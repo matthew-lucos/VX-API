@@ -1,6 +1,3 @@
-![VXUG logo](logo.png)
-managed by [vx-underground](https://vx-underground.org) | follow us on [Twitter](https://twitter.com/vxunderground) | download malware samples at the [VXUG/samples](https://samples.vx-underground.org/) page
-  
 # VX-API
 
 Version: 2.01.015
